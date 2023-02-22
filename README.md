@@ -1,6 +1,11 @@
 <H1>Network-Intrusion-Detection
   <hr>
-
+  <p> The number of attacks increased with speedy development in web communication in the last couple
+of years. The anomaly detection method for IDS has become substantial in detecting novel attacks in
+intrusion detection systems (IDS). Achieving high accuracy is a significant challenge in designing
+an intrusion detection system. It also emphasizes applying different feature selection techniques to
+identify the most suitable feature subset. The Different proposed methods are used to solve the problem. The proposed method is estimated on standard datasets KDD CUP’99, NSL-KDD, UNSW-NB15, CICIS2017
+ , and CICIDS2018.  </p>
  <H3>Network Intrusion Detection KDDCup '99', NSL-KDD, UNSW-NB15, CICIDS2017, and CICIDS2018
    
    <b>KDDCup '99': http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
